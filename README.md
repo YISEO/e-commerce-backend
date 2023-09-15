@@ -35,5 +35,7 @@ This project is licensed under the MIT license - see the [MIT License](https://o
 
 ## Walkthrough Video
 [GET routes: https://watch.screencastify.com/v/7xb7l62z1WB9MnOzJKrB](https://watch.screencastify.com/v/7xb7l62z1WB9MnOzJKrB)
+
 [POST, PUT, DELETE tag: https://watch.screencastify.com/v/R04tu5xAqM0hn8NLUjBp](https://watch.screencastify.com/v/R04tu5xAqM0hn8NLUjBp)
+
 [POST, PUT, DELETE product, category: https://watch.screencastify.com/v/8EnIIhBSSzgBC247aPJF](https://watch.screencastify.com/v/8EnIIhBSSzgBC247aPJF)
